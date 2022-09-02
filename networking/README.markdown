@@ -232,7 +232,7 @@
 
 	1. By adding a public key in ***~/.ssh/authorized_keys***, you are telling SSH that anyone with the corresponding private key can access your computer.
 
-1. Optionally, see the main page for [ssh](https://linux.die.net/man/1/ssh) for more information.
+1. Optionally, see the man page for [ssh](https://linux.die.net/man/1/ssh) for more information.
 
 ## SFTP
 
