@@ -10,7 +10,7 @@
 
 1. [Install](https://www.elastic.co/guide/en/kibana/7.17/targz.html#install-linux64) Kibana.
 
-	Type***./bin/kibana*** to run Kibana.
+	Type ***./bin/kibana*** to run Kibana.
 
 	Go to http://localhost:5601/app/dev_tools#/console.
 
