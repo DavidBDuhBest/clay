@@ -24,9 +24,9 @@
 
 1. [Web Servers](web-servers)
 
-1. [Markdown](markdown)
-
 1. [HTML/CSS](html-css)
+
+1. [Markdown](markdown)
 
 1. [Liferay](liferay)
 
