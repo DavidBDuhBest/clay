@@ -31,5 +31,5 @@ conky.config = {
 }
 
 conky.text = [[
-	${color2}battery: ${color}${battery_percent}%  ${color2}cpuf: ${color}${freq_g}ghz  ${color2}cpup: ${color}${cpu cpu0}%  ${color2}cput:${color}${acpitemp}°C  ${color2}ram: ${color}$memperc%  ${color2}up: ${color}${uptime}  ${color2}volume: ${color}${exec amixer sget Master | grep "Left:" | grep "\[on\]" | awk -F"[][]" '{print $2}'}
+	${color2}battery: ${color}${battery_percent}%  ${color2}cpuf: ${color}${freq_g}ghz  ${color2}cpup: ${color}${cpu cpu0}%  ${color2}cput:${color}${acpitemp}°C  ${color2}ram: ${color}$memperc%  ${color2}up: ${color}${uptime}
 ]]
