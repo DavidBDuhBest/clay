@@ -99,7 +99,7 @@ function customize_openbox {
 
 	echo "#!/bin/bash" > /home/me/.config/openbox/autostart.sh
 	echo "" >> /home/me/.config/openbox/autostart.sh
-	#echo "conky" >> /home/me/.config/openbox/autostart.sh
+	echo "conky" >> /home/me/.config/openbox/autostart.sh
 	echo "xautolock -time 5 -locker slock &" >> /home/me/.config/openbox/autostart.sh
 	echo "xsetroot -solid black" >> /home/me/.config/openbox/autostart.sh
 
