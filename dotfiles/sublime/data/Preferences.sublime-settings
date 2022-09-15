@@ -1,8 +1,8 @@
 {
 	"caret_style": "solid",
 	"color_scheme": "Monokai.sublime-color-scheme",
-	"rulers":
-	[
+	"font_face": "Source Code Pro",
+	"rulers": [
 		80
 	],
 	"tab_size": 4,
