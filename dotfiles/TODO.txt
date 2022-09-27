@@ -1,0 +1,5 @@
+motd with pwd
+sudoers mount
+BIG clock, battery, make conky BIG
+energy saving
+virtual desktops
