@@ -26,6 +26,8 @@ function test_user_password {
 function main {
 	test_luks_passphrase
 	test_user_password
+
+	# TODO Modify /etc/motd with the same message
 }
 
 main
