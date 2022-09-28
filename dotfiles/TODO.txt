@@ -9,3 +9,11 @@ virtual desktops
 wifi gui
 gnome for nondevs
 xrandr hard coded .56 should read from a text file so sam can change the value
+external monitor management:
+    - should automatically connect / disconnect to external monitors and projectors
+    - should be able to choose mirror or extend the screen
+vpn configuration
+    - we should have the default configuration imported for offices, e.g. Hungary
+    - authentication should come from 1Password automatically
+bluetooth keyboard ctrl-caps swap automation
+virtualbox images pushed down (e.g. Windows to test windows issues)
