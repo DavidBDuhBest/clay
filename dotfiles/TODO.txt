@@ -1,7 +1,10 @@
 motd with pwd
 sudoers mount
 BIG clock, battery, make conky BIG
-energy saving
+energy saving:
+    - when closing the lid, the notebook should go to sleep mode
+    - when the screen is locked, the monitor should be turned off (it's black currently, but not off)
+    - provide options to make the computer hibernate (useful for NUCs to save energy)
 virtual desktops
 wifi gui
 gnome for nondevs
