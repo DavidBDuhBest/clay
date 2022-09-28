@@ -3,3 +3,6 @@ sudoers mount
 BIG clock, battery, make conky BIG
 energy saving
 virtual desktops
+wifi gui
+gnome for nondevs
+xrandr hard coded .56 should read from a text file so sam can change the value
