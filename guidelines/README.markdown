@@ -1,5 +1,7 @@
 # Guidelines
 
+Liferay Basic Training was originally designed to be learned in cohorts of 24 people. The following guidelines are meant to maximize the speed and depth learning.
+
 ## For Everyone
 
 1. Never touch someone else's keyboard.
