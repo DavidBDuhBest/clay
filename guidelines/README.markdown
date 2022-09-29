@@ -24,14 +24,14 @@ Liferay Basic Training was originally designed to be learned in cohorts of 24 pe
 
 ## For the Trainees
 
-1. Do not just read the instructions. Do what the instructions say. There are milestones spread throughout the training that makes it very easy to see who practiced the training vs. those who only read the training. Reading is not learning. Learning requires doing.
+1. Do not just read the instructions. Do what the instructions say. There are actionable items spread throughout the training that makes it very easy to see who practiced the training vs. who only read the training. Reading is not learning. Learning requires doing.
 
-1. Find a partner. Many of the exercises cannot be done by yourself.
+1. Meet your neighbor. Many of the exercises cannot be done by yourself.
 
-1. Push yourself.
+1. Push yourself... and your neighbor.
 
 ## For the Trainers
 
-1. Do not spoon feed. Guide and mentor. That means not giving people answers but guiding people to learn to find their own answers.
+1. Do not spoon feed. Guide and mentor. That means not giving people direct answers but guiding people to learn to find their own answers.
 
 1. Weed out anyone who is lazy. Not knowing is easy to fix. Not trying is hard to fix.
