@@ -22,7 +22,7 @@
 
 ## For the Trainees
 
-1. Do not just read the instructions. Do what the instructions say. There are milestones spread throughout the training that makes it very easy to see who practiced the training vs. those who only read the training. Reading is not learning. Learning requiers doing.
+1. Do not just read the instructions. Do what the instructions say. There are milestones spread throughout the training that makes it very easy to see who practiced the training vs. those who only read the training. Reading is not learning. Learning requires doing.
 
 1. Find a partner. Many of the exercises cannot be done by yourself. Even Bruce Lee needed a sparring partner (i.e. Ip Man).
 
