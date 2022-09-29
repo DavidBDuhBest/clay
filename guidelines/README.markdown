@@ -16,7 +16,7 @@ Liferay Basic Training was originally designed to be learned in cohorts of 24 pe
 
 	1. Pick 1 person to come up with a secret word. Ask that person to share it with only 2 other people who can only share it with 2 other people. Notice that the secret word quickly spreads to 24 people.
 
-	1. This is a mental exercise if you are not in a cohort. But if you are in a cohort, get up and do the above exercise. Whoever orchestrates this is demonstrating they are a natural leader (and a fast reader with good reading comprehension).
+	1. This is a mental exercise if you are not in a cohort. But if you are in a cohort, get up and do the above exercise.
 
 1. Break guidelines when they do not achieve their purpose.
 
