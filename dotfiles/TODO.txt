@@ -17,3 +17,4 @@ vpn configuration
     - authentication should come from 1Password automatically
 bluetooth keyboard ctrl-caps swap automation
 virtualbox images pushed down (e.g. Windows to test windows issues)
+preconfigured printers for all offices
