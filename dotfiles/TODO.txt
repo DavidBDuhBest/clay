@@ -18,3 +18,6 @@ vpn configuration
 bluetooth keyboard ctrl-caps swap automation
 virtualbox images pushed down (e.g. Windows to test windows issues)
 preconfigured printers for all offices
+backup scripts that encrypts /home using 1password
+automatic updates every day, restarts every week (max uptime < 1 week) for kernel upgrades
+automatic chrome updates
