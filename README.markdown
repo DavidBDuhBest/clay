@@ -2,6 +2,8 @@
 
 1. Welcome!
 
+1. [Guidelines](guidelines)
+
 1. [Posture](posture)
 
 1. [Basic Apps](basic-apps)
