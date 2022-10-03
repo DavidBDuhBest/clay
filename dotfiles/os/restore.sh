@@ -609,10 +609,15 @@ function update_packages {
 
 	dnf_install \
 		acpi \
+		bat \
+		exa \
+		fd-find \
 		ftp \
 		fzf \
 		genisoimage \
+		gh \
 		git \
+		git-delta \
 		git-lfs \
 		gitk \
 		gnome-disk-utility \
@@ -636,6 +641,7 @@ function update_packages {
 		pavucontrol \
 		pinta \
 		python2.7 \
+		ripgrep \
 		s3cmd \
 		screen \
 		simplescreenrecorder \
