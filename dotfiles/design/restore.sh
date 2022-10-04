@@ -5,6 +5,7 @@ cd $(dirname "${0}")
 source ../_common.sh
 
 #
+# https://fosspost.org/survey-shows-60-of-vfx-designers-use-linux
 # https://www.reddit.com/r/linuxmemes/comments/hswvfk/as_a_graphic_designer_i_only_use_linux_yeah_you
 #
 
@@ -12,9 +13,11 @@ dnf_install \
 	darktable \
 	gimp \
 	inkscape \
-	kdenlive \
+	#kdenlive \
 	krita \
-	scribus
+	openshot \
+	scribus \
+	shotcut
 
 #
 # https://www.makeuseof.com/install-figma-linux
