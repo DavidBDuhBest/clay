@@ -20,6 +20,7 @@ PACKAGE_NAMES=(
 	libreoffice
 	msteams
 	mysql
+	netbeans
 	openvpn
 	skype
 	slack
