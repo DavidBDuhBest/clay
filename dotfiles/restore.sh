@@ -11,6 +11,7 @@ PACKAGE_NAMES=(
 	anydesk
 	brave
 	chrome
+	design
 	docker
 	idea
 	figma
