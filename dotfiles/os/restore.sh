@@ -130,6 +130,9 @@ function customize_openbox {
 
 	sed -i "s/A-Tab/W-Tab/" /home/me/.config/openbox/rc.xml
 	sed -i "s/A-S-Tab/W-S-Tab/" /home/me/.config/openbox/rc.xml
+	sed -i "s/W-F1/W-1/" /home/me/.config/openbox/rc.xml
+	sed -i "s/W-F2/W-2/" /home/me/.config/openbox/rc.xml
+	sed -i "s/W-F3/W-3/" /home/me/.config/openbox/rc.xml
 
 	local openboxRCKeyBindings=$(cat data/openbox_rc_key_bindings.xml | tr '\n' ';' | sed 's/;/\\n/g')
 
