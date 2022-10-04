@@ -630,6 +630,7 @@ function update_packages {
 		mmv \
 		NetworkManager-vpnc \
 		NetworkManager-vpnc-gnome \
+		neovim \
 		nmap \
 		notification-daemon \
 		npm \
