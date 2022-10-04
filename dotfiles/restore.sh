@@ -14,7 +14,6 @@ PACKAGE_NAMES=(
 	design
 	docker
 	idea
-	figma
 	firefox
 	javascript
 	#kvm
