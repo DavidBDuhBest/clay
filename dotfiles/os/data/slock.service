@@ -4,6 +4,7 @@ WantedBy=suspend.target
 [Service]
 Environment=DISPLAY=:0
 ExecStart=/usr/bin/slock
+ExecStartPre=/bin/sudo /usr/local/bin/swap_caps_and_control
 Type=forking
 User=me
 
