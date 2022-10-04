@@ -112,7 +112,7 @@ function customize_openbox {
 	cp -f /etc/xdg/openbox/rc.xml /home/me/.config/openbox/rc.xml
 
 	sed -i "s@manageDesktops>yes</manageDesktops@manageDesktops>no</manageDesktops@" /home/me/.config/openbox/rc.xml
-	sed -i "s@number>4</number@number>1</number@" /home/me/.config/openbox/rc.xml
+	sed -i "s@number>4</number@number>3</number@" /home/me/.config/openbox/rc.xml
 
 	#
 	# Key Bindings
