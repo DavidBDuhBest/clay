@@ -1,7 +1,8 @@
 [Desktop Entry]
 Categories=GNOME;GTK;Utility;
 Comment=Program keyboard shortcuts
-Exec=python3 /usr/local/bin/start_minimized.py "/bin/autokey-gtk -c"
+#Exec=python3 /usr/local/bin/start_minimized.py "/bin/autokey-gtk -c"
+Exec=/bin/autokey-gtk
 GenericName=Keyboard Automation
 Icon=autokey
 Name=AutoKey
