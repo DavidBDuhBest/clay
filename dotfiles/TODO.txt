@@ -1,3 +1,4 @@
+multiple versions of chrome out of the box, go to liferay-jenkins-ee and "git grep install_google_chrome"
 motd with pwd
 sudoers mount
 BIG clock, battery, make conky BIG
