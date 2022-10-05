@@ -1,5 +1,5 @@
 conky.config = {
-	alignment = 'bottom_middle',
+	alignment = 'middle_middle',
 	background = true,
 	border_width = 0,
 	color2 = 'gray50',
@@ -12,7 +12,7 @@ conky.config = {
 	draw_graph_borders = false,
 	draw_outline = false,
 	draw_shades = false,
-	font = 'DejaVu Sans Mono:size=9',
+	font = 'Source Code Pro:size=30',
 	gap_x = 0,
 	gap_y = 0,
 	lua_draw_hook_pre = 'draw_bg',
@@ -31,5 +31,21 @@ conky.config = {
 }
 
 conky.text = [[
-	${color2}battery: ${color}${battery_percent}%  ${color2}cpuf: ${color}${freq_g}ghz  ${color2}cpup: ${color}${cpu cpu0}%  ${color2}cput:${color}${acpitemp}°C  ${color2}ram: ${color}$memperc%  ${color2}up: ${color}${uptime}
+	${font Source Code Pro:size=120}${time %H:%M}${font}
+	${font Source Code Pro:size=60}${time %A}${font}
+	${font Source Code Pro:size=60}${time %B%e}${font}
+
+	${color2}Los Angeles${color} ${tztime America/Los_Angeles %H:%M}
+	${color2}Chicago${color}     ${tztime America/Chicago %H:%M}
+	${color2}Raleigh${color}     ${tztime America/New_York %H:%M}
+	${color2}Recife${color}      ${tztime America/Recife %H:%M}
+	${color2}Dublin${color}      ${tztime Europe/Dublin %H:%M}
+	${color2}Madrid${color}      ${tztime Europe/Madrid %H:%M}
+	${color2}Dubai${color}       ${tztime Asia/Dubai %H:%M}
+	${color2}Bangalore${color}   ${tztime Asia/Kolkata %H:%M}
+	${color2}Dalian${color}      ${tztime Asia/Shanghai %H:%M}
+	${color2}Tokyo${color}       ${tztime Asia/Tokyo %H:%M}
+	${color2}Sydney${color}      ${tztime Australia/Sydney %H:%M}
+
+	${color2}Battery${color}     ${battery_percent}%
 ]]
