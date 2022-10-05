@@ -1,25 +1,50 @@
-swap kdenlive to snap? doesn't start
-multiple versions of chrome out of the box, go to liferay-jenkins-ee and "git grep install_google_chrome"
-motd with pwd
-sudoers mount
-BIG clock, battery, make conky BIG
-energy saving:
-    - when closing the lid, and there's no external monitor connected the notebook should go to sleep mode
-    - when the screen is locked, the monitor should be turned off (it's black currently, but not off)
-    - provide options to make the computer hibernate (useful for NUCs to save energy)
-virtual desktops
-wifi gui
-gnome for nondevs
-xrandr hard coded .56 should read from a text file so sam can change the value
-external monitor management:
-    - should automatically connect / disconnect to external monitors and projectors
-    - should be able to choose mirror or extend the screen
-vpn configuration
-    - we should have the default configuration imported for offices, e.g. Hungary
-    - authentication should come from 1Password automatically
-bluetooth keyboard ctrl-caps swap automation
-virtualbox images pushed down (e.g. Windows to test windows issues)
-preconfigured printers for all offices
-backup scripts that encrypts /home using 1password
-automatic updates every day, restarts every week (max uptime < 1 week) for kernel upgrades
-automatic chrome updates
+push_me.sh
+
+    1. Always update repos before seeding.
+
+    2. Move push_me.sh to liferay-basic-training/dotfiles
+        
+        Change to read from the public SSH key of the seeder.
+
+    3. Add "--skip-os" "--only-os"
+
+        TODO
+
+    4. IPs
+
+    5. SentinelOne thinks I'm a bug
+
+    6. Test laptop keyboards
+
+        special-file/keyboard.txt
+        special-file/resolution.txt
+
+    7. /home/brian -> to /home/me
+
+restore.sh
+
+    swap kdenlive to snap? doesn't start
+    multiple versions of chrome out of the box, go to liferay-jenkins-ee and "git grep install_google_chrome"
+    motd with pwd
+    sudoers mount
+    BIG clock, battery, make conky BIG
+    energy saving:
+        - when closing the lid, and there's no external monitor connected the notebook should go to sleep mode
+        - when the screen is locked, the monitor should be turned off (it's black currently, but not off)
+        - provide options to make the computer hibernate (useful for NUCs to save energy)
+    virtual desktops
+    wifi gui
+    gnome for nondevs
+    xrandr hard coded .56 should read from a text file so sam can change the value
+    external monitor management:
+        - should automatically connect / disconnect to external monitors and projectors
+        - should be able to choose mirror or extend the screen
+    vpn configuration
+        - we should have the default configuration imported for offices, e.g. Hungary
+        - authentication should come from 1Password automatically
+    bluetooth keyboard ctrl-caps swap automation
+    virtualbox images pushed down (e.g. Windows to test windows issues)
+    preconfigured printers for all offices
+    backup scripts that encrypts /home using 1password
+    automatic updates every day, restarts every week (max uptime < 1 week) for kernel upgrades
+    automatic chrome updates
