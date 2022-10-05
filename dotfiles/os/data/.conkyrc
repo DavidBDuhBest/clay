@@ -46,6 +46,6 @@ conky.text = [[
 	${color2}Dalian${color}      ${tztime Asia/Shanghai %H:%M}
 	${color2}Tokyo${color}       ${tztime Asia/Tokyo %H:%M}
 	${color2}Sydney${color}      ${tztime Australia/Sydney %H:%M}
-
-	${color2}Battery${color}     ${battery_percent}%
+	${if_match ${battery_percent} > 0}
+	${color2}Battery${color}     ${battery_percent}%${endif}
 ]]
