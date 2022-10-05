@@ -4,15 +4,11 @@ cd $(dirname "${0}")
 
 source ../_common.sh
 
-#
-# NetBeans: https://netbeans.apache.org/download/nb15
-#
-
-rm -fr /opt/java/netbeans*
+rm -fr /opt/java/netbeans
 
 download https://dlcdn.apache.org/netbeans/netbeans/15/netbeans-15-bin.zip
 
-unzip ./data/netbeans-15-bin.zip -d /opt
+unzip data/netbeans-15-bin.zip -d /opt
 
 echo "[Desktop Entry]" > /usr/share/applications/netbeans.desktop
 echo "Exec=\"/opt/netbeans/bin/netbeans\" %f" >> /usr/share/applications/netbeans.desktop
