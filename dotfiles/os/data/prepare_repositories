@@ -62,11 +62,7 @@ fi
 prepare_branch ~/dev/projects/liferay-portal master
 
 prepare_work_dir liferay-portal-ee 7.0.x
-prepare_work_dir liferay-portal-ee 7.0.x-private
 prepare_work_dir liferay-portal-ee 7.1.x
-prepare_work_dir liferay-portal-ee 7.1.x-private
 prepare_work_dir liferay-portal-ee 7.2.x
-prepare_work_dir liferay-portal-ee 7.2.x-private
 prepare_work_dir liferay-portal-ee 7.3.x
-prepare_work_dir liferay-portal-ee 7.3.x-private
 prepare_work_dir liferay-portal-ee master-private
