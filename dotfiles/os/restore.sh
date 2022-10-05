@@ -611,6 +611,9 @@ function update_packages {
 	rm -fr /home/me/.config/pcmanfm
 
 	dnf_install \
+		NetworkManager-vpnc \
+		NetworkManager-vpnc-gnome \
+		WoeUSB \
 		acpi \
 		bat \
 		exa \
@@ -631,8 +634,6 @@ function update_packages {
 		lshw \
 		maim \
 		mmv \
-		NetworkManager-vpnc \
-		NetworkManager-vpnc-gnome \
 		neovim \
 		nmap \
 		notification-daemon \
@@ -649,12 +650,15 @@ function update_packages {
 		screen \
 		simplescreenrecorder \
 		sshpass \
+		strawberry \
 		subversion \
+		syncthing \
 		sysstat \
 		telnet \
 		tigervnc \
+		vifm \
 		wget \
-		WoeUSB \
+		worker \
 		xautolock \
 		xbacklight \
 		xclip \
