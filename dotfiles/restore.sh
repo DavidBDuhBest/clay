@@ -9,6 +9,7 @@ PACKAGE_NAMES=(
 	#
 	1password
 	anydesk
+	atom
 	brave
 	chrome
 	design
